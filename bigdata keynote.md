@@ -39,3 +39,5 @@ left my first hypothesis note (there are no other hypothesis notes here, why?) I
 Letting your data tell a story is dangerous c.f. climate change and pirates
 
 I wonder about the emergence of non-historical thinkers who like code who encroach on the discipline
+
+

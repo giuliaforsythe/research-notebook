@@ -1,3 +1,12 @@
+---
+title: Course Rationale
+author: Giulia Forsythe
+date: January 19, 2016
+bibliography: project.bib
+csl: mla.csl
+---
+
+
 # Why am I taking this course?
 I haven't completed an open online course since my numerous times through [#ds106](http://ds106.us/ "the MOOC mothership"), and even then the "requirements" for completion were so loose, it's debatable I really have the dedication and commitment to see an open course through to the end.
 ![typing machine](http://gforsythe.ca/wp-content/uploads/2011/09/TypingGhostInTheShell3.gif "me typing in Dillinger")
@@ -16,3 +25,8 @@ Finally, some of the most interesting people I follow on twitter consider themse
 ![fort george](https://c2.staticflickr.com/6/5709/23606838326_e2d82ab9e5_o.jpg "Fort George, Niagara-on-the-Lake")
 
 You can find my existing blog at http://gforsythe.ca/
+
+## testing
+What happens if I insert a reference here? [@weingart_joys_2013, 67]
+
+# Bibliography
