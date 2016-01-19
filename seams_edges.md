@@ -1,3 +1,15 @@
+---
+title: Research notes for Seams And Edges
+author: Giulia Forsythe
+date: January 19, 2016
+bibliography: project.bib
+csl: mla.csl
+---
+
+pandoc way:
+[@sherratt_seams_2015]
+
+old fashioned way:
 Sherratt, Tim. "Seams And Edges: Dreams Of Aggregation, Access & Discovery In A Broken World".discontents (2015):. Web. 19 Jan. 2016. 
 http://discontents.com.au/seams-and-edges-dreams-of-aggregation-access-discovery-in-a-broken-world/
 
@@ -24,6 +36,8 @@ dangers of the platform metaphor for trove
 need a better term than user for online collaborators/engagers in social platforms
 
 seams as speed bumps - sites of collaboration, negotiation and repair
+
+# Bibliography
 
 
 
