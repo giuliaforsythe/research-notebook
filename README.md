@@ -1,3 +1,4 @@
 # research-notebook
 work for #hist0907o
-for some reason will not clone and sync on my desktop
+
+iterative process going on here, not quite up and running, but feel free to look around! My cool site is available at http://giuliaforsythe.github.io
