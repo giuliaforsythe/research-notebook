@@ -24,7 +24,7 @@ Finally, some of the most interesting people I follow on twitter consider themse
 
 ![fort george](https://c2.staticflickr.com/6/5709/23606838326_e2d82ab9e5_o.jpg "Fort George, Niagara-on-the-Lake")
 
-You can find my existing blog at http://gforsythe.ca/
+You can find my existing blog at (http://gforsythe.ca/)
 
 What happens if I insert a reference here? [@weingart_joys_2013, 67] - answer - nothing
 
