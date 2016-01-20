@@ -4,11 +4,9 @@ Notes from Tim Hitchock blog post http://historyonics.blogspot.ca/2013/12/big-da
 
 Do format shifts of data also shift our thinking? How?
 
-##Distant reading - text analysis
+Distant reading - text analysis
 
-Dialogue analysis. Period representation e.g Mad Men vs contemporary literature, overstated language disconnect. e.g outside world (early); emotions (later) = "evolution of masculinity"  as a way of highlighting change. Normative analysis via Ngram & Google books.
-
-(Ben Schmidt)
+Dialogue analysis. Period representation e.g Mad Men vs contemporary literature, overstated language disconnect. e.g outside world (early); emotions (later) = "evolution of masculinity"  as a way of highlighting change. Normative analysis via Ngram & Google books.(Ben Schmidt)
 
 ![Don Draper feels a lot of emotions too](http://i.imgur.com/NArNULW.gif)
 
@@ -41,9 +39,8 @@ Letting your data tell a story is dangerous c.f. climate change and pirates
 I wonder about the emergence of non-historical thinkers who like code who encroach on the discipline
 
 #Joys of Abundance
-The Historian's Macroscope: Big Digital History,. "The Joys Of Abundance: The Era Of Big Data". N. p., 2016. Web. 17 Jan. 2016
+The Historian's Macroscope: Big Digital History,. ["The Joys Of Abundance: The Era Of Big Data"] (http://www.themacroscope.org/?page_id=17). N. p., 2016. Web. 17 Jan. 2016
 
-http://www.themacroscope.org/?page_id=17
 
 Franco Moretti in his Graphs, Maps, Trees
 
@@ -53,6 +50,7 @@ disciplinal mosaic: oral historians, GIS historians, community-based historians,
 
 
 #Seams and Edges
+
 ---
 title: Research notes for Seams And Edges
 author: Giulia Forsythe
@@ -61,10 +59,6 @@ bibliography: project.bib
 csl: mla.csl
 ---
 
-pandoc way:
-[@sherratt_seams_2015]
-
-old fashioned way:
 Sherratt, Tim. "Seams And Edges: Dreams Of Aggregation, Access & Discovery In A Broken World".discontents (2015):. Web. 19 Jan. 2016. 
 http://discontents.com.au/seams-and-edges-dreams-of-aggregation-access-discovery-in-a-broken-world/
 
@@ -79,20 +73,13 @@ seam as metaphor for construction between collection data and online representat
 
 "they have been created by many acts of selection, neglect, vision, accident and planning"
 
-http://trove.nla.gov.au/
-
-5,273,600 (at time of writing Feb 15) now 6,523,415 has:corrections one year later
-
-http://dhistory.org/querypic/
-language comparison?
+Check out [Trove] (http://trove.nla.gov.au/) with 5,273,600 (at time of writing Feb 15) now 6,523,415 has:corrections one year later
 
 dangers of the platform metaphor for trove
 
 need a better term than user for online collaborators/engagers in social platforms
 
 seams as speed bumps - sites of collaboration, negotiation and repair
-
-# Bibliography
 
 
 
