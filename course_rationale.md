@@ -26,7 +26,6 @@ Finally, some of the most interesting people I follow on twitter consider themse
 
 You can find my existing blog at http://gforsythe.ca/
 
-## testing
-What happens if I insert a reference here? [@weingart_joys_2013, 67]
+What happens if I insert a reference here? [@weingart_joys_2013, 67] - answer - nothing
 
 # Bibliography

@@ -10,7 +10,7 @@ Dialogue analysis. Period representation e.g Mad Men vs contemporary literature,
 
 (Ben Schmidt)
 
-![amazing picture of Don Draper being stereotypical](insertimage.png)
+![Don Draper feels a lot of emotions too](http://i.imgur.com/NArNULW.gif)
 
 Our inquiry is bound by our technology; limiting the extent at which we can ask good questions.
 
