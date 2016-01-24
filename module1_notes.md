@@ -1,4 +1,6 @@
-# Big Data for Dead People notes
+[Crafting Digital History Module 1 Notes](http://workbook.craftingdigitalhistory.ca/)
+
+# Big Data for Dead People
 
 Notes from Tim Hitchock blog post http://historyonics.blogspot.ca/2013/12/big-data-for-dead-people-digital.html
 
