@@ -108,5 +108,13 @@ http://dla.library.upenn.edu/dla/medren/detail.html?id=MEDREN_5103295
 *print vs web, static vs interactive
 *perception deception
 *common visualization mistakes
-*
+
+
+#Thoughts so far
+*I really liked the neat stuff pandocs with the .bib files but I'm confused on how to get this to work in my open notebook. 
+*Also I don't like that urls do not translate from running the mkdocs to build my web facing open notebook
+*I'm a bit overwhelmed with the options. Just choosing a text editor alone seems to be an irrelevant yet overwhelming decision. I have always liked TextMate but it wasn't one of the options. Does it matter? It seems to work fine...so far. But people seem to be religious about their text editors. And that's just the mundane and simple task of creating text files. There seem to be an infinite number of other options for the web publishing. We are using mkdocs but could @getgrav also work? Is bootstrap only the styling or is there something there that could help me create. 
+*Also confused about using gitbub.io page vs my own domain. Should I be doing a push to my github and ghpage and my domain as well? Why so many places? 
+*Did I miss when we were supposed to install omeka? The resources section in slack have a lot of cool and interesting information but it's difficult to discern necessary from neat-o, check it out. As an open participant, I consider all elements neat-o and I do what I want but I can imagine for an undergrad this could be overwhelming
+
 
