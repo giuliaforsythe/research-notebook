@@ -38,48 +38,6 @@ Letting your data tell a story is dangerous c.f. climate change and pirates
 
 I wonder about the emergence of non-historical thinkers who like code who encroach on the discipline
 
-#Joys of Abundance
-The Historian's Macroscope: Big Digital History,. ["The Joys Of Abundance: The Era Of Big Data"] (http://www.themacroscope.org/?page_id=17). N. p., 2016. Web. 17 Jan. 2016
-
-
-Franco Moretti in his Graphs, Maps, Trees
-
-Margaret Cohen
-
-disciplinal mosaic: oral historians, GIS historians, community-based historians, digital historians
-
-
-#Seams and Edges
-
----
-title: Research notes for Seams And Edges
-author: Giulia Forsythe
-date: January 19, 2016
-bibliography: project.bib
-csl: mla.csl
----
-
-Sherratt, Tim. "Seams And Edges: Dreams Of Aggregation, Access & Discovery In A Broken World".discontents (2015):. Web. 19 Jan. 2016. 
-http://discontents.com.au/seams-and-edges-dreams-of-aggregation-access-discovery-in-a-broken-world/
-
-collapse of time and space (historically not new)
-using collections of metadata to search the web
-
-existential questions within Google search [black box search]
-
-or reinforce existing prejudices within our "cultural record"
-
-seam as metaphor for construction between collection data and online representation
-
-"they have been created by many acts of selection, neglect, vision, accident and planning"
-
-Check out [Trove] (http://trove.nla.gov.au/) with 5,273,600 (at time of writing Feb 15) now 6,523,415 has:corrections one year later
-
-dangers of the platform metaphor for trove
-
-need a better term than user for online collaborators/engagers in social platforms
-
-seams as speed bumps - sites of collaboration, negotiation and repair
 
 
 
